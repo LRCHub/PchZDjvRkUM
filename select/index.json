@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "マッテイル",
+  "base_artist": "ミ瑞",
+  "createdAt": "2025-12-28T04:45:03.209908Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マッテイル",
+      "artist": "ミ瑞",
+      "has_synced": false,
+      "path": "select/pl_01_マッテイル_ミ瑞.txt"
+    }
+  ]
+}
